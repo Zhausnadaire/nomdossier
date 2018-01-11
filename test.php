@@ -1,4 +1,5 @@
 <?php
 <?php
-echo "allo je suis";
+ var $nom = 'prenom';
+ echo $nom;
 ?>
